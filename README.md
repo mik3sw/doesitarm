@@ -3,11 +3,14 @@
     <img width="100" height="100" src="images/logo.png">
 </p>
 
+[Download](https://github.com/mik3sw/doesitarm/releases)
 
 This simple app written in **SwiftUI** can tell you if an app on your Mac with arm processor M1 is:
 - arm64
 - x86_64 (Rosetta2)
 - Universal (Both)
+
+
 
 Here some screenshots!
 
